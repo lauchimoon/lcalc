@@ -3,18 +3,18 @@ RPN calculator intented to be used for quick calculations.
 
 ## Operations and constants supported
 ### Binary operations
-- +: a b + = a + b
-- -: a b - = a - b
-- \*: a b \* = a\*b
-- /: a b / = a/b
-- %: a b % = a%b
-- ^: a b ^ = a^b
+- +: a b + -> a + b
+- -: a b - -> a - b
+- \*: a b \* -> a\*b
+- /: a b / -> a/b
+- %: a b % -> a%b
+- ^: a b ^ -> a^b
 
 ### Unary operations
-- sin: x sin = sin(x)
-- cos: x cos = cos(x)
-- exp: x exp = e^x
-- ln: x ln   = ln(x)
+- sin: x sin -> sin(x)
+- cos: x cos -> cos(x)
+- exp: x exp -> e^x
+- ln: x ln   -> ln(x)
 
 ### Constants
 - pi
